@@ -1,2 +1,4 @@
 theme: minima
 title: Burnskids Apps
+header_pages:
+ - privacy.md
