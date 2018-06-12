@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Software Projects
 ---
 ## Google Docs Addons
 
