@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 # Google Docs Addons
 ## [Page Sizer](page-sizer)
